@@ -1,0 +1,6 @@
+admin : tphuong
+pass : 123456
+
+
+tk : phuongtx1991@gmail.com
+pass: 123456

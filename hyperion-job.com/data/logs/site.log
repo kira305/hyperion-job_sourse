@@ -1,0 +1,91 @@
+2018/06/20 15:34:38 [/user_data/apply_popup.php] order complete. order_id=172 from 127.0.0.1
+2018/06/20 15:34:38 [/user_data/apply_popup.php] order complete. order_id=172 from 127.0.0.1
+2018/06/20 15:36:37 [/user_data/apply_popup.php] order complete. order_id=173 from 127.0.0.1
+2018/06/20 15:36:37 [/user_data/apply_popup.php] order complete. order_id=173 from 127.0.0.1
+2018/06/20 16:00:41 [/user_data/apply_popup.php] order complete. order_id=174 from 127.0.0.1
+2018/06/20 16:00:41 [/user_data/apply_popup.php] order complete. order_id=174 from 127.0.0.1
+2018/06/20 18:19:21 [/user_data/apply_popup.php] order complete. order_id=176 from 127.0.0.1
+2018/06/20 18:19:21 [/user_data/apply_popup.php] order complete. order_id=176 from 127.0.0.1
+2018/06/20 18:19:31 [/user_data/apply_popup.php] order complete. order_id=177 from 127.0.0.1
+2018/06/20 18:19:31 [/user_data/apply_popup.php] order complete. order_id=177 from 127.0.0.1
+2018/06/20 18:19:32 [/user_data/apply_popup.php] order complete. order_id=178 from 127.0.0.1
+2018/06/20 18:19:32 [/user_data/apply_popup.php] order complete. order_id=178 from 127.0.0.1
+2018/06/20 18:19:41 [/user_data/apply_popup.php] order complete. order_id=179 from 127.0.0.1
+2018/06/20 18:19:41 [/user_data/apply_popup.php] order complete. order_id=179 from 127.0.0.1
+2018/06/20 18:20:10 [/user_data/apply_popup.php] order complete. order_id=180 from 127.0.0.1
+2018/06/20 18:20:10 [/user_data/apply_popup.php] order complete. order_id=180 from 127.0.0.1
+2018/06/20 18:21:41 [/user_data/apply_popup.php] order complete. order_id=181 from 127.0.0.1
+2018/06/20 18:21:41 [/user_data/apply_popup.php] order complete. order_id=181 from 127.0.0.1
+2018/06/20 18:22:09 [/user_data/apply_popup.php] order complete. order_id=182 from 127.0.0.1
+2018/06/20 18:22:09 [/user_data/apply_popup.php] order complete. order_id=182 from 127.0.0.1
+2018/06/21 11:35:23 [/user_data/apply_popup.php] order complete. order_id=187 from 127.0.0.1
+2018/06/21 11:35:23 [/user_data/apply_popup.php] order complete. order_id=187 from 127.0.0.1
+2018/06/21 11:37:27 [/user_data/apply_popup.php] order complete. order_id=192 from 127.0.0.1
+2018/06/21 11:37:27 [/user_data/apply_popup.php] order complete. order_id=192 from 127.0.0.1
+2018/06/21 11:52:16 [/user_data/apply_popup.php] order complete. order_id=195 from 127.0.0.1
+2018/06/21 11:52:16 [/user_data/apply_popup.php] order complete. order_id=195 from 127.0.0.1
+2018/06/21 15:27:34 [/entry/cv_upload.php] 1 -> C:/home/sever-env/hyperion-job.com/html/../../hyperion-job_save/temp/06211527_5b2b4556c205b.pdf from 127.0.0.1
+2018/06/21 15:41:01 [/entry/cv_upload.php] order complete. order_id=204 from 127.0.0.1
+2018/06/21 15:41:01 [/entry/cv_upload.php] order complete. order_id=204 from 127.0.0.1
+2018/06/21 15:41:26 [/user_data/apply_popup.php] order complete. order_id=205 from 127.0.0.1
+2018/06/21 15:41:26 [/user_data/apply_popup.php] order complete. order_id=205 from 127.0.0.1
+2018/06/21 15:43:16 [/user_data/apply_popup.php] order complete. order_id=206 from 127.0.0.1
+2018/06/21 15:43:16 [/user_data/apply_popup.php] order complete. order_id=206 from 127.0.0.1
+2018/06/21 19:20:32 [/user_data/apply_popup.php] order complete. order_id=210 from 127.0.0.1
+2018/06/21 19:20:32 [/user_data/apply_popup.php] order complete. order_id=210 from 127.0.0.1
+2018/06/27 17:22:21 [/mypage/cv.php]  -> DOWN_TEMP_DIR_COMMON/06271722_5b33493d4c8f8.pdf from 127.0.0.1
+2018/06/27 17:23:04 [/mypage/cv.php]  -> DOWN_TEMP_DIR_COMMON/06271723_5b334968d986e.docx from 127.0.0.1
+2018/06/27 17:23:57 [/mypage/cv.php]  -> DOWN_TEMP_DIR_COMMON/06271723_5b33499daddcb.pdf from 127.0.0.1
+2018/06/27 17:25:38 [/mypage/cv.php] 1 -> C:/home/sever-env/hyperion-job.com/html/../../hyperion-job_save/temp/06271725_5b334a0281f3a.pdf from 127.0.0.1
+2018/06/27 17:51:38 [/mypage/cv.php] 1 -> C:/home/sever-env/hyperion-job.com/html/../../hyperion-job_save/temp/06271751_5b33501a48ea4.xlsx from 127.0.0.1
+2018/06/27 18:20:45 [/mypage/cv.php] 1 -> C:/home/sever-env/hyperion-job.com/html/../../hyperion-job_save/temp/06271820_5b3356ed22fa7.pdf from 127.0.0.1
+2018/06/27 18:20:49 [/mypage/cv.php] 1 -> C:/home/sever-env/hyperion-job.com/html/../../hyperion-job_save/temp/06271820_5b3356f13e75e.xlsx from 127.0.0.1
+2018/06/28 15:07:16 [/mypage/cv.php] 1 -> C:/home/sever-env/hyperion-job.com/html/../../hyperion-job_save/temp/06281507_5b347b14acc88.xlsx from 127.0.0.1
+2018/06/28 15:07:56 [/mypage/cv.php] 1 -> C:/home/sever-env/hyperion-job.com/html/../../hyperion-job_save/temp/06281507_5b347b3cac8ba.pdf from 127.0.0.1
+2018/06/28 18:00:15 [/products/detail.php] access : user=hypthuy auth=0 sid=114f86l51t2c62n9utc89mplc4 from 127.0.0.1
+2018/06/28 18:03:00 [/products/detail.php] access : user=hypthuy auth=0 sid=114f86l51t2c62n9utc89mplc4 from 127.0.0.1
+2018/06/28 18:09:38 [/products/detail.php] access : user=hypthuy auth=0 sid=114f86l51t2c62n9utc89mplc4 from 127.0.0.1
+2018/06/28 18:09:41 [/products/detail.php] access : user=hypthuy auth=0 sid=114f86l51t2c62n9utc89mplc4 from 127.0.0.1
+2018/06/28 18:17:59 [/products/detail.php] access : user=hypthuy auth=0 sid=114f86l51t2c62n9utc89mplc4 from 127.0.0.1
+2018/06/28 18:19:39 [/products/detail.php] access : user=hypthuy auth=0 sid=114f86l51t2c62n9utc89mplc4 from 127.0.0.1
+2018/06/28 20:12:04 [/products/detail.php] access : user=hypthuy auth=0 sid=or9na6icaq1m0ca9r2bomp3g43 from 127.0.0.1
+2018/06/28 20:39:53 [/products/detail.php] access : user=hypthuy auth=0 sid=or9na6icaq1m0ca9r2bomp3g43 from 127.0.0.1
+2018/06/28 20:43:11 [/products/detail.php] access : user=hypthuy auth=0 sid=or9na6icaq1m0ca9r2bomp3g43 from 127.0.0.1
+2018/06/28 20:43:15 [/products/detail.php] access : user=hypthuy auth=0 sid=or9na6icaq1m0ca9r2bomp3g43 from 127.0.0.1
+2018/06/28 20:53:21 [/products/detail.php] access : user=hypthuy auth=0 sid=or9na6icaq1m0ca9r2bomp3g43 from 127.0.0.1
+2018/06/28 20:53:26 [/products/detail.php] access : user=hypthuy auth=0 sid=or9na6icaq1m0ca9r2bomp3g43 from 127.0.0.1
+2018/06/28 20:53:28 [/products/detail.php] access : user=hypthuy auth=0 sid=or9na6icaq1m0ca9r2bomp3g43 from 127.0.0.1
+2018/06/29 18:52:08 [/user_data/apply_popup.php] order complete. order_id=120 from 127.0.0.1
+2018/06/29 18:52:08 [/user_data/apply_popup.php] order complete. order_id=120 from 127.0.0.1
+2018/06/29 18:54:03 [/user_data/apply_popup.php] order complete. order_id=121 from 127.0.0.1
+2018/06/29 18:54:03 [/user_data/apply_popup.php] order complete. order_id=121 from 127.0.0.1
+2018/06/29 18:54:28 [/user_data/apply_popup.php] order complete. order_id=122 from 127.0.0.1
+2018/06/29 18:54:28 [/user_data/apply_popup.php] order complete. order_id=122 from 127.0.0.1
+2018/06/29 18:58:16 [/user_data/apply_popup.php] order complete. order_id=123 from 127.0.0.1
+2018/06/29 18:58:16 [/user_data/apply_popup.php] order complete. order_id=123 from 127.0.0.1
+2018/06/29 18:59:23 [/user_data/apply_popup.php] order complete. order_id=124 from 127.0.0.1
+2018/06/29 18:59:23 [/user_data/apply_popup.php] order complete. order_id=124 from 127.0.0.1
+2018/06/29 19:01:37 [/user_data/apply_popup.php] order complete. order_id=125 from 127.0.0.1
+2018/06/29 19:01:37 [/user_data/apply_popup.php] order complete. order_id=125 from 127.0.0.1
+2018/07/02 19:51:16 [/user_data/apply_popup.php] order complete. order_id=126 from 127.0.0.1
+2018/07/02 19:51:16 [/user_data/apply_popup.php] order complete. order_id=126 from 127.0.0.1
+2018/07/02 19:51:19 [/user_data/apply_popup.php] PAGE_DISPLAY_TIME_LOG [3.63sec] from 127.0.0.1
+2018/07/05 18:01:38 [/products/detail.php] access : user=hypthuy auth=0 sid=kem5vp9rd1uuh1ajn96g2c1qp5 from 127.0.0.1
+2018/07/06 12:44:16 [/index.php] PAGE_DISPLAY_TIME_LOG [2.04sec] from 127.0.0.1
+2018/07/06 19:24:15 [/index.php] PAGE_DISPLAY_TIME_LOG [2.01sec] from 127.0.0.1
+2018/07/06 19:33:47 [/entry/cv_upload.php] 1 -> C:/home/sever-env/hyperion-job.com/html/../../hyperion-job_save/temp/07061933_5b3f458b1e083.xlsx from 127.0.0.1
+2018/07/06 19:33:48 [/entry/cv_upload.php] order complete. order_id=142 from 127.0.0.1
+2018/07/06 19:33:48 [/entry/cv_upload.php] order complete. order_id=142 from 127.0.0.1
+2018/07/06 19:34:00 [/user_data/apply_popup.php] order complete. order_id=143 from 127.0.0.1
+2018/07/06 19:34:00 [/user_data/apply_popup.php] order complete. order_id=143 from 127.0.0.1
+2018/07/06 19:36:17 [/user_data/apply_popup.php] order complete. order_id=144 from 127.0.0.1
+2018/07/06 19:36:17 [/user_data/apply_popup.php] order complete. order_id=144 from 127.0.0.1
+2018/07/06 19:39:38 [/entry/cv_upload.php] 1 -> C:/home/sever-env/hyperion-job.com/html/../../hyperion-job_save/temp/07061939_5b3f46eae1347.xlsx from 127.0.0.1
+2018/07/06 19:39:40 [/entry/cv_upload.php] order complete. order_id=145 from 127.0.0.1
+2018/07/06 19:39:40 [/entry/cv_upload.php] order complete. order_id=145 from 127.0.0.1
+2018/07/06 19:40:25 [/user_data/apply_popup.php] order complete. order_id=146 from 127.0.0.1
+2018/07/06 19:40:25 [/user_data/apply_popup.php] order complete. order_id=146 from 127.0.0.1
+2018/07/06 19:41:22 [/user_data/apply_popup.php] order complete. order_id=147 from 127.0.0.1
+2018/07/06 19:41:22 [/user_data/apply_popup.php] order complete. order_id=147 from 127.0.0.1
+2018/07/06 19:41:32 [/user_data/apply_popup.php] order complete. order_id=148 from 127.0.0.1
+2018/07/06 19:41:32 [/user_data/apply_popup.php] order complete. order_id=148 from 127.0.0.1

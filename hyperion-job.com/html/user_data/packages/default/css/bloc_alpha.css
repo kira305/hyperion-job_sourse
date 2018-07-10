@@ -1,0 +1,140 @@
+@charset "utf-8";
+
+/************************************************
+ インヘッダーブロック
+************************************************ */
+#headerInternalColumn {
+    margin-top: 10px;
+    float: right;
+    width: 530px;
+    text-align: right;
+}
+
+/* ログイン（ヘッダー用）
+----------------------------------------------- */
+#header_login_area .user_area{
+    position: relative;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+#header_login_area .user_name .caret{
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: 2px;
+    vertical-align: middle;
+    border-top: 5px solid #000;
+    border-right: 5px solid transparent;
+    border-left: 5px solid transparent;
+    border-bottom: 0 dotted;
+}
+#header_login_area .user_name:hover{
+    cursor: pointer;
+    color: #FF4535;
+}
+#header_login_area .user_name:hover .caret{
+    border-top-color: #FF4535;
+}
+#header_login_area .mymenu{
+    display: none;
+    position: absolute;
+    right: 0;
+    top: 35px;
+    background: white;
+    padding: 0;
+    min-width: 250px;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    box-shadow: 7px 7px 8px -3px rgba(51,51,51,.16);
+    border: 1px solid #e0e0e0;
+    z-index: 1;
+}
+#header_login_area .mymenu:before{
+    content: "";
+    width: 0;
+    height: 0;
+    border-left: 11px solid transparent;
+    border-bottom: 10px solid #FFF;
+    border-right: 11px solid transparent;
+    position: absolute;
+    top: -10px;
+    z-index: 1;
+    right: 30px;
+}
+#header_login_area .mymenu li{
+    border-top: 1px solid #f2f2f2;
+    text-align: left;
+}
+#header_login_area .mymenu li:first-child{
+    border-top: none;
+    padding: 15px;
+    padding-bottom: 5px;
+}
+#header_login_area .mymenu li:first-child p{
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+#header_login_area .mymenu li a{
+    display: block;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: #555;
+    margin: 0;
+    padding: 15px;
+}
+#header_login_area .mymenu li a:hover,
+#header_login_area .mymenu li.active a{
+    background: #F2F2F2;
+}
+
+#header_login_area ul.formlist li {
+    margin: 6px;
+    float: left;
+}
+#header_login_area ul.formlist li.btn,
+#header_login_area ul.formlist li.forgot,
+#header_login_area ul.formlist li.regist{
+    float: right;
+}
+#header_login_area ul.formlist li.btn input[type='submit']{
+    margin-left: 10px;
+}
+#header_login_area ul.formlist li.btn,
+#header_login_area ul.formlist li.regist{
+    margin-right: 0px;
+}
+#header_login_area ul.formlist li.regist{
+    clear: both;
+}
+
+/* ***********************************************
+追加ブロック
+************************************************ */
+/* 共通
+----------------------------------------------- */
+#container .block_outer #banner_area .block_body {
+    border: none;
+}
+
+/* 【メイン】バナーエリア_02
+----------------------------------------------- */
+#main_column .block_outer #banner_area .block_body ul {
+    width: 100%;
+}
+#main_column .block_outer #banner_area .block_body ul li {
+    float: left;
+}
+#main_column .block_outer #banner_area .block_body ul li.sub_01 {
+    padding-right: 8px;
+}
+
+/* 【サイド】バナーエリア_01
+----------------------------------------------- */
+/* 【サイド】バナーエリア_02
+----------------------------------------------- */
+#leftcolumn .block_outer #banner_area .block_body ul li,
+#rightcolumn .block_outer #banner_area .block_body ul li {
+    margin-bottom: 8px;
+}
+
